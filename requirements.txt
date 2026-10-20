@@ -1,0 +1,2 @@
+psutil>=5.9
+pypresence>=6.0
